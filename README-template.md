@@ -1,103 +1,44 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o desafio do [componente de QR Code no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de programação construindo projetos reais.
 
-## Table of contents
+## Sumário
 
-- [Overview](#overview)
+- [Visão geral](#visão-geral)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Meu processo](#meu-processo)
+  - [Recursos utilizados](#recursos-utilizados)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Autor](#autor)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Visão geral
 
-## Overview
+Este projeto é a minha solução para o desafio QR Code Component do Frontend Mentor. O objetivo era recriar um componente simples e responsivo contendo um QR Code, aplicando conceitos básicos de _HTML_ e _CSS_. Como é um dos meus primeiros projetos no desenvolvimento web, ele serviu como uma ótima oportunidade para praticar estruturação de página, centralização de elementos e estilização com _CSS_. O resultado final reflete meu aprendizado inicial e minha evolução na construção de componentes visuais limpos e organizados.
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Link do meu repositório: [Repositório](https://github.com/Davigalo13/desafio01-qrcode)
+- Link do resultado final: [Resultado final](https://davigalo13.github.io/desafio01-qrcode/)
 
-## My process
+## Meu processo
 
-### Built with
+### Recursos utilizados
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- **HTML5** — para estruturar o conteúdo da página.
+- **CSS3** — para estilização do componente, incluindo layout, cores, espaçamentos e responsividade básica.
+- **Google Fonts** — para aplicar tipografia personalizada ao projeto.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### O que eu aprendi
 
-### What I learned
+Neste projeto, pude reforçar meus conhecimentos em estruturação com _HTML_ e estilização com _CSS_, especialmente para centralizar e organizar elementos na tela. Também aprendi a trabalhar melhor com unidades relativas, bordas, espaçamentos e alinhamentos, garantindo que o componente ficasse visualmente equilibrado. Além disso, tive meu primeiro contato com a integração de Google Fonts, entendendo como aplicar tipografia personalizada de forma simples. No geral, este desafio me ajudou a ganhar mais confiança na construção de componentes responsivos e bem estruturados.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+## Autor
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- GitHub - [Davigalo13](https://github.com/Davigalo13)
+- Frontend Mentor - [@Davigalo13](https://www.frontendmentor.io/profile/Davigalo13)
+- Instagram - [@davis_braga](https://www.instagram.com/davis_braga/)
